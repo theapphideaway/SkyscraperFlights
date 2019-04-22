@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Skyscraper Flights</string>
+    <string name="title_activity_flight_list">FlightListActivity</string>
+</resources>
